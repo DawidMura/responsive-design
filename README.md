@@ -1,5 +1,5 @@
 # responsive-design
-
+Website built in HTML and CSS, fully responsive.
 # desktop
 ![desktop](https://user-images.githubusercontent.com/89196594/187192638-43cbd59c-bf3c-4040-8936-9e6a05ce0c30.png)
 
